@@ -135,22 +135,23 @@ Through this project, I gained practical experience in:
 
 ## Screenshots
 
-Add screenshots of:
-
 - Home Page
+  
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/f4529aeb-b189-4e6c-97e3-245f83c48a45" />
+
+
 - Crop Selection Interface
-- Image Upload Page
+
+<img width="1111" height="797" alt="image" src="https://github.com/user-attachments/assets/ff1a8555-708e-439a-9db4-bf73449f7e82" />
+
 - Disease Detection Results
-- Confidence Score Output
-- Mobile View
 
-Example:
+<img width="1102" height="857" alt="image" src="https://github.com/user-attachments/assets/b4704a69-e694-4f39-821b-4f5d759da847" />
 
-```markdown
-![Home Page](images/homepage.png)
+  
+- Disease Analysis within the Region
 
-![Detection Result](images/result.png)
-```
+<img width="1080" height="890" alt="image" src="https://github.com/user-attachments/assets/f83da763-d510-44c0-9411-40c5e9d3c91e" />
 
 ---
 
