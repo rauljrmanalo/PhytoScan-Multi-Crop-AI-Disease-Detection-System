@@ -1,0 +1,29 @@
+{
+  "dataset_path": "./rice_dataset",
+  "splits": {
+    "train": {
+      "bacterial_leaf_blight": 1386,
+      "brown_spot": 1480,
+      "healthy": 1491,
+      "leaf_blast": 1801,
+      "leaf_scald": 1670,
+      "narrow_brown_spot": 1416,
+      "neck_blast": 1000,
+      "rice_hispa": 1461,
+      "sheath_blight": 1578,
+      "tungro": 1740
+    },
+    "test": {
+      "bacterial_leaf_blight": 376,
+      "brown_spot": 380,
+      "healthy": 391,
+      "leaf_blast": 362,
+      "leaf_scald": 386,
+      "narrow_brown_spot": 382,
+      "neck_blast": 322,
+      "rice_hispa": 225,
+      "sheath_blight": 288,
+      "tungro": 310
+    }
+  }
+}

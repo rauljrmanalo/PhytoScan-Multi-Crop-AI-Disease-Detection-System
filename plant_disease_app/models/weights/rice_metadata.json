@@ -1,0 +1,42 @@
+{
+  "crop": "rice",
+  "dataset": "loki4514/rice-leaf-diseases-detection",
+  "num_classes": 10,
+  "class_folder_names": [
+    "bacterial_leaf_blight",
+    "brown_spot",
+    "healthy",
+    "leaf_blast",
+    "leaf_scald",
+    "narrow_brown_spot",
+    "neck_blast",
+    "rice_hispa",
+    "sheath_blight",
+    "tungro"
+  ],
+  "class_index_to_disease_id": {
+    "0": "bacterial_blight",
+    "1": "brown_spot",
+    "2": "healthy",
+    "3": "leaf_blast",
+    "4": "leaf_scald",
+    "5": "narrow_brown_spot",
+    "6": "neck_blast",
+    "7": "rice_hispa",
+    "8": "sheath_blight",
+    "9": "tungro"
+  },
+  "img_size": [
+    224,
+    224
+  ],
+  "batch_size": 32,
+  "epochs_phase1": 10,
+  "epochs_phase2": 20,
+  "test_accuracy_pct": 98.45,
+  "test_loss": 0.0491,
+  "model_files": {
+    "keras": "./models/weights\\rice_vgg16.keras",
+    "h5": "./models/weights\\rice_vgg16.h5"
+  }
+}
